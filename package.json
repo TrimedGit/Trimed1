@@ -1,0 +1,25 @@
+{
+  "name": "trimed1",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "nocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrimedGit/Trimed1.git"
+  },
+  "keywords": [
+    "my",
+    "app",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrimedGit/Trimed1/issues"
+  },
+  "homepage": "https://github.com/TrimedGit/Trimed1#readme"
+}
